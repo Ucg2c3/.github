@@ -22,9 +22,7 @@
 <!-- Leave incomplete or inapplicable lines unchecked. -->
 <!-- Replace the [ ] with [x] to check the boxes (there is no space between x and square brackets). -->
 - [ ] I have read and understood the Developer Certificate of Origin (DCO), below, which covers the contents of this pull request (PR).
-- [ ] My pull request doesn't include code or content generated with AI (also
-  see [Avoiding generative AI development tools — Creative Commons Open
-  Source][no-ai]).
+- [ ] My pull request doesn't include code or content generated with AI (also see [Avoiding generative AI development tools — Creative Commons Open Source][no-ai]).
 - [ ] My pull request has a descriptive title (not a vague title like `Update
   index.md`).
 - [ ] My pull request targets the *default* branch of the repository (`main` or `master`).
